@@ -1,0 +1,5 @@
+<webscript>
+<shortname>Set User Permission</shortname>
+<description>Set read permission to user for noderef</description>
+<url>/setreadpermission?filepath={filepath}&amp;user={user}</url>
+</webscript>
